@@ -8,7 +8,7 @@ Refer to the [`requirements.txt`](https://github.com/Rakib1508/data-science/requ
 
 Here I have documented each steps that I followed to build this project along with date & time when I have completed a step in the project timeline.
 
-#### <time datetime="2021-07-16 00:16:00">July 21, 2021 - 00:16</time>
+#### <time datetime="2021-07-16 00:16:00">July 16, 2021 - 00:16</time>
 
 1. Start the project with a virtual environment. To create the virtual environment, run the given command in any command line terminal.
    `virtualenv ds`
@@ -17,3 +17,11 @@ Here I have documented each steps that I followed to build this project along wi
 
 2. Install all necessary Python modules given in the `requirements.txt` by running
    `pip install -r requirements.txt`
+
+#### <time datetime="2021-07-17 01:49:00">July 17, 2021 - 01:49</time>
+
+3. Try out the notebooks I provided here in this repository, or write them by yourself. To start a notebook on a browser, please type the command `jupyter notebook` on your command prompt or terminal. This will open a tab on your default browser with the root directory, where you can see all the existing notebooks and can create new notebooks too. Get started with your notebook in this way, and have fun!
+
+4. There are some cells on the [`Python OS and Filesystem`](https://github.com/Rakib1508/data-science/python-os-and-filesystem.ipynb) notebook which can only run on a linux server or on Mac OS. Please update the notebook cells for windows if you can find a solution and make pull requests.
+
+5. Try to understand the codes using Numpy module from the [Numpy documentation](https://numpy.org/doc/stable/index.html). If you can improve any code, please add a new cell after the target cell and include the comment `# another solution` or `# better solution` as the first line of the cell, and then make pull requests.
