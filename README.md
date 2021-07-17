@@ -26,6 +26,8 @@ Here I have documented each steps that I followed to build this project along wi
 
 5. Try to understand the codes using Numpy module from the [`Numpy documentation`](https://numpy.org/doc/stable/index.html). If you can improve any code, please add a new cell after the target cell and include the comment `# another solution` or `# better solution` as the first line of the cell, and then make pull requests.
 
+#### <time datetime="2021-07-17 21:31:00">July 17, 2021 - 21:31</time>
+
 6. Pandas module is a highly sophisticated tool for data analysis and simple visualization, and quite easy to learn. I find Pandas to be easier to master than Numpy, although its functionality is based on Numpy and it extends many more. Please refer to the numpy notebook [`Numpy exercises`](https://github.com/Rakib1508/python-data-science/blob/master/numpy-exercises.ipynb) to gain knowledge about the Numpy module.
 
 7. Please refer to the [`Pandas documentation`](https://pandas.pydata.org/docs/user_guide/index.html) to understand more about Pandas. If you can improve any part of the notebooks, please add new cells with a comment `# another solution` or `# better solution` or something similar and then make pull requests.
