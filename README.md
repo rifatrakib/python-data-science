@@ -39,3 +39,7 @@ Here I have documented each steps that I followed to build this project along wi
 9. Please refer to the [`Matplotlib documentation`](https://matplotlib.org/stable/contents.html) to understand more about Matplotlib. If you can improve any part of the notebooks, please add new cells with a comment `# another solution` or `# better solution` or something similar and then make pull requests.
 
 10. Please refer to the [`Seaborn documentation`](https://seaborn.pydata.org/api.html) to understand more about Seaborn. If you can improve any part of the notebooks, please add new cells with a comment `# another solution` or `# better solution` or something similar and then make pull requests.
+
+#### <time datetime="2021-07-18 21:24:00">July 18, 2021 - 21:24</time>
+
+11. The [`complete data science practice`](https://github.com/Rakib1508/python-data-science/blob/master/complete-data-science-practice.ipynb) project is a simple data science project built to show how Numpy, Pandas, Matplotlib and Seaborn works side by side to create a strong framework for data analysis. Use the notebook to understand the workflow.
